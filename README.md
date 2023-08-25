@@ -1,5 +1,6 @@
 # Description 
-This is a simple way to view the internet connection. This tools has been tested in Windows 10 and work perfectly.
+This is a simple way to view the internet connection and get notified as fast a lightning if your connection down. 
+This tools has been tested in Windows 10 and work perfectly.
 
 # How This Work ?
 This tools will check basic ping to google.com, then if the inet work, they will show ping time in ms.
