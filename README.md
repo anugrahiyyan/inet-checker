@@ -7,6 +7,8 @@ But, if your network down or your ping higher from 200ms, this tool gonna send n
 
 # How to launch ? 
 Just simple, you must have Python already installed in your computer.
-Then, just run $python inet-checker. in your cmd.
-
+Then, just run this command in your cmd
+```
+$ python inet-cek.py
+```
 Note : RUN YOUR CMD AS A ADMINISTRATOR
