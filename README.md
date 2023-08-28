@@ -19,5 +19,5 @@ $ python inet-cek.py
 Note : RUN YOUR CMD AS A ADMINISTRATOR
 
 
-# NEW FILE EXTENSION INCOMING
+# >>> NEW FILE EXTENSION INCOMING, JUST DOWNLOAD IT! <<<
 Happy news, the file with extension .exe has been release. it's more easy to use. Happy Watching ><.
