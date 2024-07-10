@@ -4,17 +4,17 @@ This tools has been tested in Windows 10 and work perfectly.
 
 # How This Work ?
 This tools will check basic ping to google.com, then if the inet work, they will show ping time in ms.
-But, if your network down or your ping higher from 200ms, this tool gonna send notification to your computer in real time.
+But, if your network down or your ping higher from 550ms, this tool gonna send notification to your computer in real time.
 
 # How to launch ? 
 Just simple, you must have Python & Plyer already installed in your computer.
-First,
+First, type this on windows terminal (you can also install via vscode terminal)
 ```
 pip install plyer
 ```
-then,
+then, 
 ```
-$ python inet-cek.py
+$ python {file_name}.py
 ```
 Note : RUN YOUR CMD AS A ADMINISTRATOR
 
